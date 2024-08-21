@@ -86,6 +86,6 @@ I am a full-stack developer from Pakistan and I am currently studying software e
 
  <p align="center">
    <a href="https://github.com/abdulrafaykhan-10"> 
-     <img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrafaykhan-10&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+     <img width="71%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrafaykhan-10&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
    </a>  
  </p>
