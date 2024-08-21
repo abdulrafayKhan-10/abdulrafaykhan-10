@@ -1,5 +1,6 @@
-
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><img src="https://giphy.com/embed/dWesBcTLavkZuG35MI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div><p><a href="https://giphy.com/gifs/webdesign-webtasrimi-gitialmarketing-dWesBcTLavkZuG35MI">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VuOGVpM3djaDMzNGtua3dvMG14ZnNhZ3ZpYTVic25rYm9mY2d2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="100"/>
+</div>
 
 <div id="badges">
   <a href="your-linkedin-URL">
