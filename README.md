@@ -40,6 +40,8 @@ I am a full-stack developer from Pakistan and I am currently studying software e
 
 ### 💻 Languages and Tools :
 
+<br>
+
 <div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;
