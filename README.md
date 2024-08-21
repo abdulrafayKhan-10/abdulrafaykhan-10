@@ -28,7 +28,7 @@
 
 I am a full-stack developer from Pakistan and I am currently studying software engineering.
 
-- 💼 I'm working as a Full Stack Web Developer at [WorldOfTech](https://worldoftech.company), contributing to both frontend and backend development for building scalable web applications.
+- 💼 Full Stack Web Developer at [World Of Tech](https://worldoftech.company), specializing in both frontend and backend development for scalable web applications.
 - ✍️ Exploring Content Creation to share knowledge, tutorials, and insights with the tech community.
 - 🌱 Passionate about continuous learning and experimenting with new technologies, tools, and frameworks.
 - 🛠️ Experienced in working with various programming languages and frameworks like JavaScript, PHP, Laravel, ASP .NET MVC, and Flutter.
