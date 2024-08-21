@@ -4,16 +4,16 @@
 <div class="badges" align="center">
   <a href="www.linkedin.com/in/abdul-rafay-khan-88aa0b24a" target="blank">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>&nbsp;
+  </a>
 <a href="your-twitter-URL" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-grey?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/twitter-violet?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
   <a href="https://www.instagram.com/abdul_rafay_khan_o_o/" target="blank">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>&nbsp;
+  </a>
   <a href="mailto:rafaykhan0000@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-purple?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </div>
 
 
