@@ -68,7 +68,7 @@ I am a full-stack developer from Pakistan and I am currently studying software e
 
 ---
 
-### Github Stats :
+### 📈 Github Stats :
 
 <p align="center">
     <a href="https://github.com/abdulrafaykhan-10">
