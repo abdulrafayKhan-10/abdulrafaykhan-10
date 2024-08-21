@@ -24,7 +24,7 @@
 
 ### Hi there, I'm [Abdul Rafay Khan](https://abdulrafaykhan.rf.gd) 👋
 
-#### ▶️ 👨‍💻 About Me :
+### ▶️ #### 👨‍💻 About Me :
 
 I am a Full Stack Developer from Pakistan and currently studying software engineering.
 
