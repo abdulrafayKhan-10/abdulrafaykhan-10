@@ -1,17 +1,17 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnYzeWxkNnA2MnI5eXZ5ZTU2bDg1OTFyd3hzZWNtM3N3MzF6bzFqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 <div class="badges">
-  <a href="your-linkedin-URL">
+  <a href="www.linkedin.com/in/abdul-rafay-khan-88aa0b24a">
     <img src="https://img.shields.io/badge/-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>&nbsp;
 <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>&nbsp;
-  <a href="your-instagram-URL">
+  <a href="https://www.instagram.com/abdul_rafay_khan_o_o/">
     <img src="https://img.shields.io/badge/-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>&nbsp;
-  <a href="your-gmail-URL">
+  <a href="mailto:rafaykhan0000@gmail.com">
     <img src="https://img.shields.io/badge/-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>&nbsp;
 </div>
