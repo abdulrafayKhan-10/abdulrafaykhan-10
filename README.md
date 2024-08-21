@@ -12,12 +12,13 @@
     <img src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <br>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
   <a href="mailto:rafaykhan0000@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-rafaykhan0000@gmail.com-D93025?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/-Gmail-D93025?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
-
---
 
 ## Hi there, I am Abdul Rafay Khan
 
