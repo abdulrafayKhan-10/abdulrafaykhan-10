@@ -26,8 +26,15 @@
 
 #### 👨‍💻 About Me :
 
-I am a Full Stack Developer from Pakistan and currently studying software engineering.
+I am a full-stack developer from Pakistan and I am currently studying software engineering.
 
+- 💼 I'm working as a Full Stack Web Developer at [WorldOfTech](https://worldoftech.company), contributing to both frontend and backend development for building scalable web applications.
+- ✍️ Exploring Content Creation to share knowledge, tutorials, and insights with the tech community.
+- 🌱 Passionate about continuous learning and experimenting with new technologies, tools, and frameworks.
+- 🛠️ Experienced in working with various programming languages and frameworks like JavaScript, PHP, Laravel, ASP .NET MVC, and Flutter.
+- 🎯 Currently focusing on improving my skills in MERN Stack and ASP.NET MVC.
+- 🚀 I enjoy collaborating with fellow developers on open-source projects and contributing to the tech community.
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/abdul-rafay-khan-88aa0b24a)
 
 
 
