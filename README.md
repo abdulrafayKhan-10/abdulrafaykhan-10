@@ -13,6 +13,6 @@
   </a>
   <br>
   <a href="mailto:rafaykhan0000@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail       -D93025?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/-rafaykhan0000@gmail.com-D93025?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
