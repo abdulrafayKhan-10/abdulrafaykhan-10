@@ -36,8 +36,6 @@ I am a full-stack developer from Pakistan and I am currently studying software e
 - 🚀 I enjoy collaborating with fellow developers on open-source projects and contributing to the tech community.
 - :mailbox:Feel Free to reach me: [![Linkedin Badge](https://img.shields.io/badge/-A.RafayKhan-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/abdul-rafay-khan-88aa0b24a)
 
-<br>
-
 ---
 
 ### 💻 Languages and Tools :
@@ -67,7 +65,6 @@ I am a full-stack developer from Pakistan and I am currently studying software e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;&nbsp;
 </div>
 
-<br>
 
 ---
 
