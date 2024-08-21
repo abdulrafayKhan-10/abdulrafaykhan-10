@@ -20,9 +20,6 @@
   </a>
 </div>
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=abdulrafaykhan-10&label=PROFILE+VIEWS)
-
 ---
 
 ### Hi there, I'm [Abdul Rafay Khan](https://abdulrafaykhan.rf.gd) 👋
