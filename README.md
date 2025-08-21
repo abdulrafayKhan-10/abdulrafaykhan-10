@@ -31,8 +31,8 @@ I am a full-stack developer from Pakistan and I am currently studying software e
 - 💼 Full Stack Web Developer, specializing in both frontend and backend development for scalable web applications.
 - ✍️ Exploring Content Creation to share knowledge, tutorials, and insights with the tech community.
 - 🌱 Passionate about continuous learning and experimenting with new technologies, tools, and frameworks.
-- 🛠️ Experienced in working with various programming languages and frameworks like JavaScript, PHP, Laravel, ASP .NET MVC, and Flutter.
-- 🎯 Currently focusing on improving my skills in MERN Stack and ASP.NET MVC.
+- 🛠️ Experienced in working with various programming languages and frameworks like Python, JavaScript, PHP, Laravel, Node JS, Express JS, React JS, Next JS.
+- 🎯 Currently focusing on improving my skills in Full Stack Development, AI & Data Related Fields.
 - 🚀 I enjoy collaborating with fellow developers on open-source projects and contributing to the tech community.
 - :mailbox:Feel Free to reach me: [![Linkedin Badge](https://img.shields.io/badge/-A.RafayKhan-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/abdul-rafay-khan-88aa0b24a)
 
