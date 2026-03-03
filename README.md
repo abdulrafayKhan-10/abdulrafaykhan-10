@@ -73,7 +73,6 @@ I am a full-stack developer from Pakistan and I am currently studying software e
 
 <p align="center">
     <a href="https://github.com/abdulrafaykhan-10">
-        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abdulrafaykhan-10&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdulrafaykhan-10&langs_count=8&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
