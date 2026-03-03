@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div class="badges" align="center">
-  <a href="https://linkedin.com/in/abdul-rafay-khan-88aa0b24a" target="_blank">
+  <a href="https://www.linkedin.com/in/abdul-rafay-khan--" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://x.com/A_RafayKhanDev" target="_blank">
@@ -22,19 +22,19 @@
 
 ---
 
-### Hi there, I'm [Abdul Rafay Khan](https://abdulrafaykhan.rf.gd) 👋
+### Hi there, I'm [Abdul Rafay Khan](https://abdulrafaykhan.online) 👋
 
 ### 👨‍💻 About Me :
 
 I am a full-stack developer from Pakistan and I am currently studying software engineering.
 
-- 💼 Full Stack Web Developer, specializing in both frontend and backend development for scalable web applications.
+- 💼 Full Stack Web Developer, specializing in both frontend and backend development for scalable applications.
 - ✍️ Exploring Content Creation to share knowledge, tutorials, and insights with the tech community.
 - 🌱 Passionate about continuous learning and experimenting with new technologies, tools, and frameworks.
-- 🛠️ Experienced in working with various programming languages and frameworks like Python, JavaScript, PHP, Laravel, Node JS, Express JS, React JS, Next JS.
+- 🛠️ Experienced in working with various programming languages and frameworks like Python, JavaScript, PHP, Laravel, Node JS, Express JS, React JS, Next JS, ASP .NET ( Core + MVC + APIs ), React Native, Flutter. 
 - 🎯 Currently focusing on improving my skills in Full Stack Development, AI & Data Related Fields.
 - 🚀 I enjoy collaborating with fellow developers on open-source projects and contributing to the tech community.
-- :mailbox:Feel Free to reach me: [![Linkedin Badge](https://img.shields.io/badge/-A.RafayKhan-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/abdul-rafay-khan-88aa0b24a)
+- :mailbox:Feel Free to reach me: [![Linkedin Badge](https://img.shields.io/badge/-A.RafayKhan-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/abdul-rafay-khan--)
 
 ---
 
@@ -57,7 +57,6 @@ I am a full-stack developer from Pakistan and I am currently studying software e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" title="Angular JS" alt="Angular JS" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" title="flutter" alt="flutter" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;&nbsp;
